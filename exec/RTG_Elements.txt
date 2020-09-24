@@ -1,0 +1,2 @@
+Space Delimited in Order-> Element,Isotope,Initial Grams,Time Period,Time Unit:
+Tl 204 1 1 years
